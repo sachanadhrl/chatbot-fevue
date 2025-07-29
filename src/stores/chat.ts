@@ -9,7 +9,7 @@ export const useChatStore = defineStore('chat', () => {
   const currentSession = ref<string | null>(null)
   const isLoading = ref(false)
   const guestPromptCount = ref(0)
-  const maxGuestPrompts = ref(3)
+  const maxGuestPrompts = ref(2)
 
   const authStore = useAuthStore()
 

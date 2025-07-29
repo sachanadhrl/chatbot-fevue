@@ -244,7 +244,7 @@
             </div>
 
             <!-- Quick Beauty Tips -->
-            <div
+            <!-- <div
               class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-3 sm:gap-4 max-w-2xl mx-auto mt-6 sm:mt-8 px-4"
             >
               <div
@@ -274,7 +274,7 @@
                 <div class="text-xs sm:text-sm font-medium text-blue-800">Produk Review</div>
                 <div class="text-xs text-blue-600 mt-1">Rekomendasi produk terbaik</div>
               </div>
-            </div>
+            </div> -->
           </div>
 
           <!-- Messages -->
